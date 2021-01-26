@@ -1,0 +1,1 @@
+https://docs.microsoft.com/tr-tr/learn/modules/microservices-aspnet-core/?ocid=aid3021690
